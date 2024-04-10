@@ -4,7 +4,7 @@
 - Anamaria Leguizamón
 - Diego Herrera
   
-#### Descripción
+### Descripción
 Este proyecto tiene como objetivo explorar y analizar dos conjuntos de datos proporcionados por el Departamento de Policía de Nueva York (NYPD) y el Departamento de Transporte de Nueva York (NYC DOT). El primer conjunto de datos contiene información sobre arrestos realizados por el NYPD hasta la fecha, mientras que el segundo conjunto de datos proporciona detalles sobre colisiones de vehículos motorizados ocurridas en la ciudad.
 
 ### Objetivos
